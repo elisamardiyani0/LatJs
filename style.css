@@ -1,0 +1,20 @@
+*{
+  margin: 0px;
+}
+.container{
+    margin: 250px auto;
+    width: 400px;
+    padding: 10px;
+    background-image: radial-gradient(circle at 50% -20.71%, #00acff 0, #00a8ff 5%, #00a2ff 10%, #009bff 15%, #0093ff 20%, #0089ff 25%, #5f7eff 30%, #9771ff 35%, #bd62ff 40%, #da51ff 45%, #f23cf2 50%, #ff1fdd 55%, #ff00c6 60%, #ff00af 65%, #ff0098 70%, #ff0081 75%, #ff006b 80%, #ff0054 85%, #ff123e 90%, #ff3425 95%, #ff4900 100%);
+  
+}
+h1{
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+#login1{
+  text-align: center;
+}
+#submit{
+  margin-top: 15px;
